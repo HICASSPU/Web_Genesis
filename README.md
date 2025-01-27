@@ -35,8 +35,8 @@ By the end of this series, you will:
 To get started, clone this repository and follow the step-by-step tutorials in each section:
 
 ```bash
-git clone https://github.com/yourusername/web-genesis.git
-cd web-genesis
+git clone https://github.com/HICASSPU/Web_Genesis.git
+cd Web_Genesis
 ```
 
 Each track is organized with detailed instructions, examples, and exercises to help you practice and hone your skills.
